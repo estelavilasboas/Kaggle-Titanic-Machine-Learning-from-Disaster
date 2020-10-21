@@ -8,3 +8,5 @@ test_dt = pd.read_csv("./titanic/test.csv")
 
 train_dt.describe()
 train_dt.info()
+
+#análise exploratória
